@@ -55,8 +55,8 @@ Follow these steps to get your backtesting environment up and running on your Wi
     -   Replace `your_api_key_here` and `your_secret_key_here` with your actual Alpaca API Key and Secret. Your `.env` file should look something like this:
 
         ```
-        ALPACA_API_KEY="PK3QMSZCIAELDXZCQJ26NKUVO4"
-        ALPACA_SECRET_KEY="8tj6nffbheFki2wUf8VpWVZ778AjapGKcFwTgaJ8V8R5"
+        ALPACA_API_KEY="PK3QMSZCIAE4MLDXZ2CQJ26NKAUVO4A"
+        ALPACA_SECRET_KEY="8tj6n32ffb223ah1eFki2wUf48VpaWV5Z778Ajap3GKcF2wT5gaJ8V8R5"
         ```
 
 ## 📊 How to Run the Dashboard
